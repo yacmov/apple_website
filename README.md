@@ -1,6 +1,6 @@
 # Apple iPhone Webpage Clone
 
-This portfolio is for learning purpose with <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
+This portfolio is created for learning and educational purposes with <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -67,6 +67,7 @@ Make sure you have the following installed on your machine:
 ```bash
 git clone https://github.com/JavaScript-Mastery-Pro/iphone-doc.git
 cd iphone-doc
+git clone https://github.com/username/video-carousel.git
 ```
 
 **Installation**
