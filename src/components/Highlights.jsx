@@ -21,15 +21,12 @@ const Highlights = () => {
               Watch the film
               <img src={watchImg} alt='watch' className='ml-2' />
             </p>
-          </div>
-          <div className='flex flex-wrap items-end gap-5'>
             <p className='link'>
               Watch the event
               <img src={rightImg} alt='right' className='ml-2' />
             </p>
           </div>
         </div>
-        
       </div>
     </section>
   );
